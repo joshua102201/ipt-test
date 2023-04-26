@@ -6,6 +6,7 @@ int main(){
 	printf("Hello, I'm Karl Bejerano");
 	printf("Hello, I'm Gail Villahermosa");
 	printf("Hello, I'm Drew Shein");
+	printf("Hi from staging");
 	return0;
 }
 
